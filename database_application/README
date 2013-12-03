@@ -1,0 +1,13 @@
+##############################################
+#	Database Editing Application
+#
+#	Authors: Stephen Jenkins and Sam Horst
+#
+#	Description:
+#	Maintains a database of courses for a
+#	university course list.
+#############################################
+
+compile using:
+
+gcc *.c

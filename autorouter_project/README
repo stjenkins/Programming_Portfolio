@@ -1,0 +1,16 @@
+########################################
+#	Autorouter Project
+#
+#	Author:	Stephen Jenkins
+#
+#	Version: Pre-alpha stage.
+#
+#	Description:
+#	This program is intended to take
+#	an array stored in a text file
+#	with integer net values and
+#	0 representing empty space and
+#	connect all the nets together
+#	without crossing lines using
+#	parallel computations.
+########################################

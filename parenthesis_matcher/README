@@ -1,0 +1,12 @@
+########################################
+#	parens
+#
+#	Author:	parens.cpp -> Stephen Jenkins
+#		Stack.cpp -> Dr. Daryl Lee
+#		Stack.h
+#
+#	Description:
+#	Goes through a text file line by
+#	line and checks for mismatched
+#	parenthesis.
+#######################################

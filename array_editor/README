@@ -1,0 +1,10 @@
+###########################################
+#	array_editor
+#
+#	Author:	Stephen Jenkins
+#
+#	Desciption:
+#	Creates an array, prompts data to be
+#	stored inside, then computes some
+#	mathematical truths about the array.
+###########################################

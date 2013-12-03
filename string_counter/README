@@ -1,0 +1,10 @@
+#############################################
+#	string_counter
+#
+#	Author: Stephen Jenkins
+#
+#	Desciption:
+#	Finds all the occurances of a search
+#	string in a provided file on a by
+#	line basis.
+#############################################

@@ -1,0 +1,9 @@
+changes I made to the program
+
+I added a header function. It affects all of the program.
+
+I made a function that asks "Press enter to continue..." so nothing is deleted by the clear statement the user might want to see.
+
+I added a way to make a new database if there isn't one opened already. This affects AddRec.c
+
+I added success messages to basically every function to show that something happened and no errors were returned.

@@ -1,0 +1,10 @@
+#######################################
+#	ascii_sort
+#
+#	Author:	Stephen Jenkins
+#
+#	Description:
+#	Scans in a string from the user
+#	and sorts it into ascending
+#	ascii value.
+#######################################
